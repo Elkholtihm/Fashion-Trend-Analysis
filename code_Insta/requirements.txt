@@ -1,0 +1,13 @@
+pymongo
+python-dotenv
+requests 
+emoji
+ultralytics
+install numpy==1.23.5
+scikit-learn==1.2.2
+python-dotenv
+nltk
+supervision
+hdbscan
+tensorflow==2.12.0
+apify-client
