@@ -48,6 +48,9 @@ This project is a comprehensive system for analyzing fashion trends by processin
 ### Data Visualization
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
+## 🏗️ Architecture
+
+![System Architecture](./architecture.png)
 
 ## 📁 Project Structure
 
